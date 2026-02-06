@@ -1,4 +1,12 @@
 @font-face {
+    font-family: "header Font", sans-serif;
+    src: url('https://fonts.googleapis.com') format('woff2'),
+         url('https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Almendra:ital,wght@0,400;0,700;1,400;1,700&family=Cute+Font&family=Playwrite+NZ+Basic+Guides&family=Texturina:ital,opsz,wght@0,12..72,100..900;1,12..72,100..900&display=swap') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
     font-family: "Cute Font", sans-serif;
     src: url('https://fonts.googleapis.com') format('woff2'),
          url('https://fonts.gstatic.com" crossorigin>
@@ -6,6 +14,3 @@
   font-weight: 400;
   font-style: normal;
 }
-
-}
-
